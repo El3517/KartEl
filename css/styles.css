@@ -1,0 +1,22 @@
+ul{
+    background-color: black;
+    font-size: 30px;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+body{
+    background-image: url(../img/Safari-Court-Hotel-Pool.jpg);
+}
+.myImg div img{
+    width: 80%;
+    border-radius: 15px;
+}
+.myImg div{
+    display: inline-flex;
+    margin-top: 30%;
+}
+.myImg div a img:hover{
+    width: 95%;
+}
